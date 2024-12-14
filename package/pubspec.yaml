@@ -1,0 +1,6 @@
+name: core
+description: Dart implementation of the core of Arva.
+version: 0.1.0
+
+environment:
+  sdk: ^3.4.0
