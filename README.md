@@ -1,1 +1,1 @@
-## Cross platform graphics layer
+## Cross platform interaction layer
