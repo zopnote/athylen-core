@@ -1,1 +1,1 @@
-## Cross platform interaction layer
+## Simple cross platform interaction layer
